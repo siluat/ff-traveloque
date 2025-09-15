@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "type": "module",
   "author": "siluat <siluat@gmail.com>",
-  "homepage": "https://ff-travelogue.vercep.app",
+  "homepage": "https://ff-travelogue.vercel.app",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/siluat/ff-travelogue.git"
